@@ -1,0 +1,43 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+/*Choey advice style*/
+
+* {
+  font-family: 'Roboto', sans-serif;
+  color: #160f29;
+}
+
+body {
+  color:#ffffff;
+  padding: 25px;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-weight: 700;
+  text-align: left;
+  font-size: 50px;
+  color: #0E103D ;
+  margin-top: 50px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.advice {
+  padding: 10px 150px;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-size : 16px;
+  
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a {
+  font-weight: green;
+}
+
+/**END Choey **/
